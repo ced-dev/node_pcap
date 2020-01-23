@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "nan": "^2.0.9",
-    "socketwatcher": "git+https://github.com/jonahharris/node-socketwatcher.git"
+    "socketwatcher": "git+https://github.com/jonahharris/node-socketwatcher/tree/with-v12-fixes.git"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
